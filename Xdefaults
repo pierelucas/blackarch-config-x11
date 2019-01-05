@@ -1,0 +1,32 @@
+#########################################################
+### Modified Xdefaults for Blackarch to match         ###
+### vimrc and colors from noptrix & Blackarch DevOps  ###
+###---------------------------------------------------###
+### Modified by pierelucas / Stay free to commit      ###
+###---------------------------------------------------###
+### this files also fix the rename of Terminus and    ###
+### the xterm font problems                           ###
+###---------------------------------------------------###
+### Please use it together with my Xresources and     ###
+### Blackarch / noptrix default vim settings          ###
+###---------------------------------------------------###
+### Date: 04.01.2019                                  ###
+#########################################################
+
+! generic settings
+*foreground:              #cccccc
+*background:              #000000
+
+! xterm settings
+xterm*VT100*geometry:           80x24
+xterm*font:                     terminus-medium
+xterm*faceName:                 terminus:antialias=true
+xterm*faceSize:                 12
+xterm*utf8:                     1
+xterm*locale:                   true
+xterm*VT100*metaSendsEscape:    true
+xterm*selectToClipboard:        true
+XTerm*SaveLines:                1000
+XTerm*transparent:              true
+Xcursor.theme:                  Adwaita
+Xcursor.size:                   14
