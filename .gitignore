@@ -1,3 +1,5 @@
+### Blackarch X11 Configuration .gitignore ###
+
 *.swp
 *~
 *.tmp
