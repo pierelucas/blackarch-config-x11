@@ -2,10 +2,10 @@
 
 BlackArch Linux configuration files for X11.
 
-## Commit by pierelucas
+## Branch/Commit by pierelucas
 
 Makes the Colors more smoothly and fix the
-problems with the latest Terminus-Font and xTerm patch. Feel free to change the Colors an the Size but always try to match the defaultsby nooptrix & Blackarch DevOps.
+problems with the latest Terminus-Font and xTerm patch. Feel free to change the Colors an the Size butalways try to match the defaultsby noptrix & Blackarch DevOps.
 
 Open your xterm with -fg 'favorite Color'
 
@@ -40,4 +40,4 @@ You can get in touch with the BlackArch Linux team. Just check out the following
 
 ## Contact pierelucas
 
-You can Contact me over my Git email or send a request.
+You can Contact me over my git email or send a request.
