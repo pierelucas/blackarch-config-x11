@@ -40,6 +40,4 @@ You can get in touch with the BlackArch Linux team. Just check out the following
 
 ## Contact pierelucas
 
-When wanted i will  can upload a full dotfiles Configuration with more fixes and changes in X,profiles and bash/zsh files.
-
-You can contact me over git  when you need help or has any questions. Smalltalk is also possible. Greetings.
+You can Contact me over my Git email or send a request.
