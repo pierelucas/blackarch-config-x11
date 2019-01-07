@@ -2,7 +2,7 @@
 
 BlackArch Linux configuration files for X11.
 
-## Branch/Commit by pierelucas
+## Alterntive Branch  by pierelucas
 
 Makes the Colors more smoothly and fix the
 problems with the latest Terminus-Font and xTerm patch. Feel free to change the Colors an the Size butalways try to match the defaultsby noptrix & Blackarch DevOps.
@@ -13,10 +13,12 @@ It matches also very well with zsh, tmux and the powerline and powerlevel plugin
 
 ## Installation
 
-Make a directory and Clone the Repository. 
+Make a directory and Clone this  Repository. 
 Then follow the Steps under "Configuration"
 
-Off course change the source directory to your created directory. 
+Off course change the source directory to your created directory.
+
+For xft support use the blackarch/master Branch.
 
 ## Configuration
 
