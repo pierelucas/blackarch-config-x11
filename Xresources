@@ -10,7 +10,7 @@
 ### Please use it together with my Xdefaults and      ###
 ### Blackarch / noptrix default vim settings          ###
 ###---------------------------------------------------###
-### Date: 04.01.2019 / Alternative Branch             ###
+### Date: 05.01.2019 / Alternative Branch             ###
 #########################################################
 
 ! generic settings
@@ -63,7 +63,9 @@ xterm*utf8:                     1
 xterm*locale:                   true
 xterm*VT100*metaSendsEscape:    true
 xterm*selectToClipboard:        true
-XTerm*SaveLines:                1000
-XTerm*transparent:              true
+xterm*SaveLines:                1000
+xterm*transparent:              true
+
+! cursor
 Xcursor.theme:                  Adwaita
 Xcursor.size:                   14
